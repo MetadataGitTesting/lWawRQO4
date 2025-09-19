@@ -1,0 +1,50 @@
+name: donita.roberts
+description: Horizontal
+version: 0.0.1
+author: jv0itgww.1kqdk320@rlynifqo.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: donitaroberts
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:28:55'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:28:55'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:28:55.028318Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1133419410'
+  createdAt: '2025-09-19T23:28:55.028318Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
